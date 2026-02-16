@@ -43,7 +43,7 @@ const AboutSection = () => (
       </AnimatedSection>
 
       <AnimatedSection delay={0.15}>
-        <p className="mt-2 text-center text-xs text-muted-foreground">
+        <p className="mt-2 text-center text-xs italic text-muted-foreground">
           "I don't just analyze data; I give it a voice."
         </p>
       </AnimatedSection>

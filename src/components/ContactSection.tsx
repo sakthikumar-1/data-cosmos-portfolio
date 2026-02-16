@@ -13,8 +13,8 @@ const ContactSection = () => {
           <h2 className="section-title mb-3">
             Get in <span className="gradient-text-coral">Touch</span>
           </h2>
-          <p className="mb-10 text-sm text-muted-foreground">
-            "Data is infinite — and so is curiosity."
+          <p className="mb-10 text-sm italic text-muted-foreground">
+            "The best discoveries are made together."
           </p>
         </AnimatedSection>
 
